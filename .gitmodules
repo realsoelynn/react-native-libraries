@@ -877,3 +877,6 @@
 [submodule "libraries/mientjan/react-native-markdown-renderer"]
 	path = libraries/mientjan/react-native-markdown-renderer
 	url = https://github.com/mientjan/react-native-markdown-renderer.git
+[submodule "libraries/Kureev/react-native-side-menu"]
+	path = libraries/Kureev/react-native-side-menu
+	url = https://github.com/Kureev/react-native-side-menu.git
