@@ -928,3 +928,9 @@
 [submodule "libraries/lucide-icons/lucide"]
 	path = libraries/lucide-icons/lucide
 	url = https://github.com/lucide-icons/lucide.git
+[submodule "libraries/tinyplex/tinybase"]
+	path = libraries/tinyplex/tinybase
+	url = https://github.com/tinyplex/tinybase.git
+[submodule "libraries/GetStream/stream-chat-react-native"]
+	path = libraries/GetStream/stream-chat-react-native
+	url = https://github.com/GetStream/stream-chat-react-native.git
