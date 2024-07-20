@@ -934,3 +934,9 @@
 [submodule "libraries/GetStream/stream-chat-react-native"]
 	path = libraries/GetStream/stream-chat-react-native
 	url = https://github.com/GetStream/stream-chat-react-native.git
+[submodule "libraries/supabase/supabase-js"]
+	path = libraries/supabase/supabase-js
+	url = https://github.com/supabase/supabase-js.git
+[submodule "libraries/douglasjunior/react-native-keyboard-manager"]
+	path = libraries/douglasjunior/react-native-keyboard-manager
+	url = https://github.com/douglasjunior/react-native-keyboard-manager.git
