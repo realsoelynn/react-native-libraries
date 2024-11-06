@@ -1021,3 +1021,6 @@
 [submodule "libraries/carloscuesta/react-native-error-boundary"]
 	path = libraries/carloscuesta/react-native-error-boundary
 	url = https://github.com/carloscuesta/react-native-error-boundary.git
+[submodule "libraries/tomekvenits/react-native-map-clustering"]
+	path = libraries/tomekvenits/react-native-map-clustering
+	url = https://github.com/tomekvenits/react-native-map-clustering.git
