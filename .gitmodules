@@ -1030,3 +1030,6 @@
 [submodule "libraries/maxs15/react-native-spinkit"]
 	path = libraries/maxs15/react-native-spinkit
 	url = https://github.com/maxs15/react-native-spinkit.git
+[submodule "libraries/tamagui/tamagui"]
+	path = libraries/tamagui/tamagui
+	url = https://github.com/tamagui/tamagui.git
